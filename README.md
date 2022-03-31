@@ -1,5 +1,5 @@
 # PC-FCGR
-CONTACT
+# CONTACT
 
 <b>**Anna Fabijańska**</b> <br>
 Department of Computer Engineering <br>
